@@ -13,6 +13,6 @@ Link to Data: https://www.kaggle.com/jamesvandenberg/us-police-shootings-2013202
 
 
 
-![Police Violence Data Dashboard](PoliceViolenceDashboard.png)
+![Police Violence Data Dashboard](Police Violence Dashboard.png)
 
 
