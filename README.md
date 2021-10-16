@@ -11,6 +11,6 @@ Link to Data: https://www.kaggle.com/jamesvandenberg/us-police-shootings-2013202
 3. Which states have the most police violence cases?
 4. Is police violence getting better over time?
 
-![Police Violence](Police Violence Dashboard.png)
+![Police Violence](PVDashboard.png)
 
 
